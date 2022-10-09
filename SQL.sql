@@ -1,3 +1,4 @@
+-- Day : 01 
 /* => Data types : 
 
 	  1. INT				  -- whole numbers 
